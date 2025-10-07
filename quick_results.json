@@ -1,0 +1,19 @@
+{
+  "existing": {
+    "topic/rmq/": "RMQ"
+  },
+  "non_existing": [
+    "topic/dsu-app/",
+    "topic/lca/",
+    "topic/offline-lca/",
+    "topic/tree-centroid/",
+    "topic/palindrome/",
+    "topic/binary-lifting/",
+    "topic/heavy-light/",
+    "topic/sqrt-decomposition/",
+    "topic/mo-algorithm/",
+    "topic/dsu/",
+    "topic/segment-tree/",
+    "topic/fenwick/"
+  ]
+}
